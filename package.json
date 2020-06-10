@@ -1,0 +1,22 @@
+{
+  "name": "documentacionbecas",
+  "version": "1.0.0",
+  "description": "Este programa está embebido en la hoja de cálculo SETTINGS.ANSWERS_SHEET, y al recibir una respuesta desde el formulario manda un correo de confirmación de que se han recibido los documentos del solicitande de Beca.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfcruzUDES/DocumentacionBecas.git"
+  },
+  "author": "Luis Fernando Cruz Carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfcruzUDES/DocumentacionBecas/issues"
+  },
+  "homepage": "https://github.com/lfcruzUDES/DocumentacionBecas#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
